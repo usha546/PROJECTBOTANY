@@ -1,0 +1,53 @@
+.header{
+    display: flex;
+    padding: 20px;
+    align-items: center;
+    background-color: darkslategrey;
+    color: aqua;
+    justify-content: space-between;
+    
+    
+}
+.fontstyle{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+.th{ 
+    color: antiquewhite;
+}
+
+
+
+
+.th tr{
+    
+    text-align:center;
+    padding: 10px;
+    background-color: aliceblue;
+    color: black;
+
+    
+}
+.table {
+
+min-width: 80%;
+margin-top: 30px;;
+}
+
+.tablewidthl {
+    min-width: 600px;
+}
+
+.tablewidths {
+    min-width: 100px;
+}
+.footer{
+    background-color: darkslategray;
+    color: blue;
+    padding: 1%;
+    margin-top: 2%;
+    margin-bottom: 0%;
+}
+
+
+
